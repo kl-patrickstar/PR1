@@ -1,4 +1,4 @@
-public class test {
+public class par_impar {
 
     public static void main(String[] args) {
 
